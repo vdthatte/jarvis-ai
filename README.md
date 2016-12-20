@@ -14,7 +14,8 @@ creating my own personal assistant. (I'll try to keep everything opensource - un
 - integrate with sentient app to tell me about my routine
 - groceries to buy/order
 - recepie suggestions
-- google search
+- look up stuff on wikipedia
+- read trending news
 
 ### Interface
 
