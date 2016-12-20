@@ -15,7 +15,6 @@ creating my own personal assistant. I obviously need one?? (I'll try to keep eve
 - groceries to buy/order
 - recepie suggestions
 - google search
-- 
 
 ### Interface
 
