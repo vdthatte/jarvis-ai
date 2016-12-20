@@ -27,4 +27,5 @@ creating my own personal assistant. (I'll try to keep everything opensource - un
 - spotify api
 - wit.ai 
 - event-kit
+- openweather api
 - (brainstorming)
