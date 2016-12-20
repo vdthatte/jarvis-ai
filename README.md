@@ -1,5 +1,5 @@
 # jarvis-ai
-creating my own personal assistant. I obviously need one?? (I'll try to keep everything opensource - unless I find a way to make money with this)
+creating my own personal assistant. (I'll try to keep everything opensource - unless I find a way to make money with this)
 
 ### Functionality:
 (work in progress...)
